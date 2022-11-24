@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in animation.
 - 🌱 I’m currently learning C and HTML/CSS.
-- 📫 How to reach me ...
 
 <!---
 LeoStr4nge/LeoStr4nge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
